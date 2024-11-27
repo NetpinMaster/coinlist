@@ -3365,6 +3365,11 @@
 		"name": "Bitfinex Bitcoin Future"
 	},
 	{
+		"id": "Bitcoin Blockchain Revolution",
+		"symbol": "BTCBR",
+		"name": "Bitcoin Blockchain Revolution"
+	},
+	{
 		"id": "bt2",
 		"symbol": "BT2",
 		"name": "Bitcoin SegWit2X"
